@@ -25,7 +25,7 @@ export default function Footer() {
       <div className="container">
         <div className="footer__grid">
           <div className="footer__brand">
-            <div className="footer__brand-name">Physio.</div>
+            <div className="footer__brand-name">Moveàna</div>
             <p className="footer__brand-description">
               Dedicated to helping you recover, move better, and live a
               healthier life through expert physiotherapy care.
@@ -78,7 +78,7 @@ export default function Footer() {
         </div>
 
         <div className="footer__bottom">
-          <p>© 2026 Physio. All rights reserved.</p>
+          <p>© 2026 Moveàna. All rights reserved.</p>
           <div className="footer__bottom-links">
             <a href="#">Privacy Policy</a>
             <a href="#">Terms of Service</a>

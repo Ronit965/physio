@@ -43,7 +43,7 @@ export default function Navbar({ darkMode, setDarkMode }) {
     <nav className={`navbar${scrolled ? ' scrolled' : ''}`}>
       <div className="container">
         <Link to="/" className="navbar__logo" onClick={() => setMenuOpen(false)}>
-          Physio<span>.</span>
+          Moveàna
         </Link>
 
         <div className={`navbar__links${menuOpen ? ' active' : ''}`}>
