@@ -99,13 +99,13 @@ export default function ContactPage() {
               <div className="contact-info-card__icon">📞</div>
               <h3>Call Us</h3>
               <p><a href="tel:+91 9560952179">+91 9560952179</a></p>
-              <span className="contact-info-card__sub">Direct reception line</span>
+              <span className="contact-info-card__sub">Direct doctor line</span>
             </div>
 
             <div className="contact-info-card">
               <div className="contact-info-card__icon">✉️</div>
               <h3>Email Us</h3>
-              <p><a href="mailto:hello@physio.com">hello@physio.com</a></p>
+              <p><a href="mailto:Moveàna7@gmail.com">Moveàna7@gmail.com</a></p>
               <span className="contact-info-card__sub">Replies within 2 business hours</span>
             </div>
 

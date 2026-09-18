@@ -71,7 +71,7 @@ export default function Footer() {
             <ul>
               <li><a href="https://www.google.com/maps/dir/?api=1&destination=275+Triveni+Apartment+Near+ESIC+Hospital+Jhilmil+Colony+Delhi+110095" target="_blank" rel="noopener noreferrer">📍 275 Triveni Apartment, Jhilmil Colony, Delhi 110095</a></li>
               <li><a href="tel:+919560952179">📞 +91 9560952179</a></li>
-              <li><a href="mailto:hello@physio.com">✉️ hello@physio.com</a></li>
+              <li><a href="mailto:Moveàna7@gmail.com">✉️ Moveàna7@gmail.com</a></li>
               <li><a href="#timing" onClick={(e) => handleLinkClick(e, '#timing')}>🕐 Mon–Sat: 6PM – 9PM | Sun: 12PM – 3PM</a></li>
             </ul>
           </div>
